@@ -1,17 +1,16 @@
-# Python Notes 🐍
+# Python 🐍
 
-This repository is used to store my Python learning notes and practice code.
+> 我的 Python 学习笔记
 
-## Contents
-- Basic syntax
-- Data types
-- Control flow
-- Functions
-- Practice exercises
+---
 
-## Purpose
-To record my Python learning process and build a solid programming foundation.
+## 内容
+- 基础语法
+- 数据类型
+- 控制流程
+- 函数
+- 练习
 
-## Notes
-- All notes are written in Markdown.
-- Code examples are kept simple and clear.
+---
+
+慢慢写，不着急。
